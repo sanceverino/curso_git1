@@ -7,3 +7,4 @@ Escola
 Faca (nova funcionalidade)
 Gato (mais uma funcionalidade)
 Helena (mais uma funcionalidade)
+Faca1 (faca na caveira)
