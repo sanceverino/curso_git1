@@ -4,3 +4,4 @@ Bola
 Cavalo
 Dedo
 Escola
+Faca (nova funcionalidade)
