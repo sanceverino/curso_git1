@@ -1,2 +1,6 @@
 Ola pessoal da 123
+<<<<<<< Updated upstream
 aaa
+=======
+bbb
+>>>>>>> Stashed changes
