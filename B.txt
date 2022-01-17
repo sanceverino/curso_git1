@@ -2,3 +2,5 @@ testando atualizacao do clone mais de uma informaçao
 A
 B
 C
+D
+E
